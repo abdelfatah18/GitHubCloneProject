@@ -1,3 +1,3 @@
-Objective: This project is for practicing Git branching, merging, and conflict resolution.
-
-Modification in main branch.
+# GitHubCloneProject
+This repository is for practicing branching and resolving merge conflicts.
+Modification made directly on GitHub.
